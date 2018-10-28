@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ABPCircleImageView">
+        <attr name="borderWidth" format="dimension"/>
+        <attr name="circlePadding" format="dimension"/>
+        <attr name="borderColor" format="color"/>
+        <attr name="borderOverlay" format="boolean"/>
+        <attr name="fillColor" format="color"/>
+        <attr name="enableShadow" format="boolean"/>
+        <attr name="shadowColor" format="color"/>
+        <attr name="shadowDx" format="float"/>
+        <attr name="shadowDy" format="float"/>
+    </declare-styleable>
+</resources>
